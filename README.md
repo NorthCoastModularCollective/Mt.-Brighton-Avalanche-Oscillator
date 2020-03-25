@@ -23,7 +23,7 @@ Credits and thanks:
 
 [@ishjr](https://www.instagram.com/ishjr/)
 
-[`@__memco`](https://www.instagram.com/__memco/)
+[@__memco](https://www.instagram.com/__memco/)
 
 [@thynk](https://www.instagram.com/thynk/)
 
