@@ -35,7 +35,7 @@ Credits and thanks:
 
 [@wildcatseason](https://www.instagram.com/wildcatseason/)
 
-Inspiriation provided by the critical maker and feminist theory of Paige Morgan, Jacque Wernimont, and Elle Losh to expose the materiality and hidden labors of technology from, for example, 
+Inspiriation provided by the critical maker and feminist theory of Paige Morgan, Jacque Wernimont, and Elle Losh to expose the materiality and hidden labors of technology from, for example: 
 
 Morgan, P. (2017, October 17). MEALS: A feminist framework for engaging with technology. ECS 610.
 
