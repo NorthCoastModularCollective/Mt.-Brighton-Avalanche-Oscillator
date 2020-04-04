@@ -8,6 +8,7 @@ The goal of this project is to create a super simple oscillator that can be used
 
 ![Photo of a completed Mt. Brighton Avalanche Oscillator](https://github.com/NorthCoastModularCollective/Mt.-Brighton-Avalanche-Oscillator/blob/master/media/marketing/Mt-Brighton-Avalanche-Oscillator-Front.jpg)
 
+[Build Instructions](https://github.com/NorthCoastModularCollective/Mt.-Brighton-Avalanche-Oscillator/wiki/Build-Instructions).  
 
 Hardware shared under the [Creative Commons CC BY-NC-SA (4.0) License](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
@@ -23,7 +24,7 @@ Credits and thanks:
 
 [@intangibleresistance](https://www.instagram.com/intangibleresistance/)
 
-[@ishjr](https://www.instagram.com/ishjr/)
+[@ishotjr](https://github.com/ishotjr)
 
 [@__memco](https://www.instagram.com/__memco/)
 
