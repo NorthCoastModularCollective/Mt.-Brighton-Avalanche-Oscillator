@@ -41,3 +41,8 @@ Inspiriation provided by the critical maker and feminist theory of Paige Morgan,
 Morgan, P. (2017, October 17). MEALS: A feminist framework for engaging with technology. ECS 610.
 
 Wernimont, J., & Losh, E. (2018). Wear and Care. In The Routledge Companion to Media Studies and Digital Humanities (pp. 97–107). Routledge.
+
+Other, similar projects we're aware of. Contact us if you know of more.
+* [Look Mum, No Computer's "Super Simple Oscillator"](https://www.lookmumnocomputer.com/simplest-oscillator/)
+* [Kassutronic's adaptation of an avalanche circuit to Eurorack](https://kassu2000.blogspot.com/2018/07/avalance-vco.html)
+* [Kerry Wong describes what's going on with avalanche oscillators](http://www.kerrywong.com/2014/03/19/bjt-in-reverse-avalanche-mode/)
